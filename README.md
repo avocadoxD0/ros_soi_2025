@@ -1,5 +1,5 @@
 # ROS SoI-2025
-ROS2 Differential Drive Robot Simulation
+ROS2 4-wheeled Differential Drive Robot Simulation
 
 # Differential Drive Robot Debug
 
