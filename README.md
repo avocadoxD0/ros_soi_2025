@@ -10,3 +10,10 @@ ROS2 Differential Drive Robot Simulation
 
 ## Issue
 Gazebo is installed but not launching GUI. Tried both `gazebo` and `ros2 launch` methods.
+
+## Setup
+
+Before launching anything, make sure to source the ROS 2 Iron setup:
+
+```bash
+source /opt/ros/iron/setup.bash
