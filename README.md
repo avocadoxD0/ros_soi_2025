@@ -26,3 +26,7 @@ source /opt/ros/iron/setup.bash
    colcon build
    source install/setup.bash
    ```
+2. Run the simulation:
+   ```bash
+   ros2 launch mobile_robot gazebo_model.launch.py
+   ```
