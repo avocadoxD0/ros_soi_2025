@@ -18,10 +18,11 @@ Before launching anything, make sure to source ROS 2 Iron in every new terminal:
 
 ```bash
 source /opt/ros/iron/setup.bash
-
+```
 ## How to Launch
 
 1. Build your workspace:
    ```bash
    colcon build
    source install/setup.bash
+   ```
